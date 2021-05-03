@@ -1,0 +1,12 @@
+@import 'var.css';
+
+.App {
+  text-align: center;
+  border-top: 5px solid var(--main-color);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
