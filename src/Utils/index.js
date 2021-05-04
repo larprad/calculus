@@ -8,3 +8,7 @@ export const getIconFromOperandValue = (value) => {
 export const getRandomNumberBetween = (minVal, maxVal) => {
   return minVal + Math.floor(Math.random()*(maxVal - minVal + 1));
 };
+
+export const checkIfNumber = (number) => {
+  return !isNaN(number);
+}

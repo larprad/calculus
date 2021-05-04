@@ -25,3 +25,7 @@
   font-size: 6rem;
   outline: none;
 }
+
+.yay {
+  border: 3px solid greenyellow;
+}
