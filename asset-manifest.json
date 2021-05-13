@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/calculus/static/css/main.9aa69d8b.chunk.css",
+    "main.js": "/calculus/static/js/main.24ec5915.chunk.js",
+    "main.js.map": "/calculus/static/js/main.24ec5915.chunk.js.map",
+    "runtime-main.js": "/calculus/static/js/runtime-main.ae6ba24c.js",
+    "runtime-main.js.map": "/calculus/static/js/runtime-main.ae6ba24c.js.map",
+    "static/css/2.29e3fd0e.chunk.css": "/calculus/static/css/2.29e3fd0e.chunk.css",
+    "static/js/2.570756c6.chunk.js": "/calculus/static/js/2.570756c6.chunk.js",
+    "static/js/2.570756c6.chunk.js.map": "/calculus/static/js/2.570756c6.chunk.js.map",
+    "static/js/3.f198ce9b.chunk.js": "/calculus/static/js/3.f198ce9b.chunk.js",
+    "static/js/3.f198ce9b.chunk.js.map": "/calculus/static/js/3.f198ce9b.chunk.js.map",
+    "index.html": "/calculus/index.html",
+    "static/css/2.29e3fd0e.chunk.css.map": "/calculus/static/css/2.29e3fd0e.chunk.css.map",
+    "static/css/main.9aa69d8b.chunk.css.map": "/calculus/static/css/main.9aa69d8b.chunk.css.map",
+    "static/js/2.570756c6.chunk.js.LICENSE.txt": "/calculus/static/js/2.570756c6.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/calculus/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae6ba24c.js",
+    "static/css/2.29e3fd0e.chunk.css",
+    "static/js/2.570756c6.chunk.js",
+    "static/css/main.9aa69d8b.chunk.css",
+    "static/js/main.24ec5915.chunk.js"
+  ]
+}
