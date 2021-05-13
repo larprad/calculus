@@ -1,0 +1,11 @@
+.loader {
+  z-index: 1;
+  height: 100%;
+  background-color: var(--second-color);
+  opacity: .5;
+  position: absolute;
+  left: 0;
+  right: 100%;
+  top: 0;
+  transition: right 0.1s linear;
+}

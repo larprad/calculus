@@ -1,7 +1,11 @@
+@import '../../var.css';
+
 .header-title {
   padding: 2rem 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
   font-size: 5rem;
-  letter-spacing: 1.5rem;
+  letter-spacing: 1.3rem;
   font-weight: 300;
+  border-bottom: 10px solid var(--accent-color);
+  border-right: var(--main-margin) solid var(--second-color);
 }

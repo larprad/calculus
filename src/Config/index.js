@@ -44,13 +44,17 @@ const operandOptions = [
     value: 3,
     icon: 'close',
   },
-  {
-    key: 'division',
-    text: 'division',
-    value: 4,
-    icon: 'exclamation',
-  },
+  // {
+  //   key: 'division',
+  //   text: 'division',
+  //   value: 4,
+  //   icon: 'exclamation',
+  // },
 ];
+
+const timerConfig = {
+  maxValue : 5,
+};
 
 const getMinMaxFromDifficulty = (difficultyNumber) => {
   switch (difficultyNumber) {
@@ -62,4 +66,4 @@ const getMinMaxFromDifficulty = (difficultyNumber) => {
   }
 }
 
-export {operandOptions, difficultyOptions, getMinMaxFromDifficulty};
+export {operandOptions, difficultyOptions, getMinMaxFromDifficulty, timerConfig};

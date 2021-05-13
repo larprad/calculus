@@ -1,8 +1,16 @@
 @import 'var.css';
 
 .App {
+  position: relative;
+  display: flex;
+  flex-direction: column;
   text-align: center;
-  border-top: 5px solid var(--main-color);
+  border-top: 10px solid var(--second-color);
+  height: 100vh;
+  background-color: var(--main-color);
+  color: var(--main-text-color);
+  overflow-x: hidden;
+  min-height: 500Px;
 }
 
 @media (prefers-reduced-motion: no-preference) {

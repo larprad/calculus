@@ -1,12 +1,17 @@
+// composants
+import {Icon} from 'semantic-ui-react';
+
 // styles
 import './info.css';
 
 
-const Info = ({number, title}) => {
+const Info = ({icon, content}) => {
   return (
     <div className="info">
-      <h3>{title}</h3>
-      <h2>{number}</h2>
+      <div className="info-icon">
+        <Icon size="large" name={icon} color={"violet"}/>
+      </div> 
+      <h2>{content}</h2>
     </div>
   )
 };

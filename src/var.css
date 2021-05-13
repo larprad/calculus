@@ -1,6 +1,11 @@
 :root {
-  --main-color: #B987E1;
-  --second-color: #6435C9;
-  --accent-color: #0201223b;
+  --main-color: #000000;
+  --main-text-color: #FFF;
+  --second-color: #654b9c;
+  --accent-color: #B5CC18;
   --main-width: 1000px;
+  --main-margin: 35px;
+  --main-offset-pos: 85%;
+  --main-offset-neg: calc(-1 * var(--main-offset-pos));
+  --main-offset-dif: calc(100% - var(--main-offset-pos));
 }
